@@ -1,0 +1,2707 @@
+{
+  "Resultado": "Usuario Validado",
+  "Precio": [
+    {
+      "CodArticulo": "01",
+      "CodLista": "001",
+      "PrecioFinal": 135.97,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0104",
+      "CodLista": "001",
+      "PrecioFinal": 135.97,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0105",
+      "CodLista": "001",
+      "PrecioFinal": 148.83,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "02",
+      "CodLista": "001",
+      "PrecioFinal": 78.21,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0204",
+      "CodLista": "001",
+      "PrecioFinal": 125.58,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0205",
+      "CodLista": "001",
+      "PrecioFinal": 104.72,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0201",
+      "CodLista": "001",
+      "PrecioFinal": 300,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0202",
+      "CodLista": "001",
+      "PrecioFinal": 504,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0203",
+      "CodLista": "001",
+      "PrecioFinal": 300,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0206",
+      "CodLista": "001",
+      "PrecioFinal": 745.44,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0207",
+      "CodLista": "001",
+      "PrecioFinal": 745.44,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0208",
+      "CodLista": "001",
+      "PrecioFinal": 745.44,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0209",
+      "CodLista": "001",
+      "PrecioFinal": 1235.44,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0210",
+      "CodLista": "001",
+      "PrecioFinal": 2476.38,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0211",
+      "CodLista": "001",
+      "PrecioFinal": 881.25,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0212",
+      "CodLista": "001",
+      "PrecioFinal": 660,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0213",
+      "CodLista": "001",
+      "PrecioFinal": 660,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0214",
+      "CodLista": "001",
+      "PrecioFinal": 1323.44,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0215",
+      "CodLista": "001",
+      "PrecioFinal": 176,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0216",
+      "CodLista": "001",
+      "PrecioFinal": 206,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0217",
+      "CodLista": "001",
+      "PrecioFinal": 524.4,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0218",
+      "CodLista": "001",
+      "PrecioFinal": 270,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0219",
+      "CodLista": "001",
+      "PrecioFinal": 2937.5,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0220",
+      "CodLista": "001",
+      "PrecioFinal": 1475,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0501",
+      "CodLista": "001",
+      "PrecioFinal": 277.14,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0502",
+      "CodLista": "001",
+      "PrecioFinal": 277.14,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0503",
+      "CodLista": "001",
+      "PrecioFinal": 85,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0504",
+      "CodLista": "001",
+      "PrecioFinal": 587.5,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0505",
+      "CodLista": "001",
+      "PrecioFinal": 524.4,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0301",
+      "CodLista": "001",
+      "PrecioFinal": 1050,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0302",
+      "CodLista": "001",
+      "PrecioFinal": 2304.8,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0303",
+      "CodLista": "001",
+      "PrecioFinal": 685.39,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0304",
+      "CodLista": "001",
+      "PrecioFinal": 1112.5,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0754",
+      "CodLista": "001",
+      "PrecioFinal": 300.16,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "600",
+      "CodLista": "001",
+      "PrecioFinal": 850.5,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "601",
+      "CodLista": "001",
+      "PrecioFinal": 950,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "602",
+      "CodLista": "001",
+      "PrecioFinal": 950,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "603",
+      "CodLista": "001",
+      "PrecioFinal": 950,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "604",
+      "CodLista": "001",
+      "PrecioFinal": 950,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "606",
+      "CodLista": "001",
+      "PrecioFinal": 347.9,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "607",
+      "CodLista": "001",
+      "PrecioFinal": 312.88,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "608",
+      "CodLista": "001",
+      "PrecioFinal": 312.88,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "609",
+      "CodLista": "001",
+      "PrecioFinal": 312.88,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "610",
+      "CodLista": "001",
+      "PrecioFinal": 2883,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "611",
+      "CodLista": "001",
+      "PrecioFinal": 2883,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "612",
+      "CodLista": "001",
+      "PrecioFinal": 2783,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "613",
+      "CodLista": "001",
+      "PrecioFinal": 2883,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "614",
+      "CodLista": "001",
+      "PrecioFinal": 2883,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "615",
+      "CodLista": "001",
+      "PrecioFinal": 2883,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "616",
+      "CodLista": "001",
+      "PrecioFinal": 2883,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "617",
+      "CodLista": "001",
+      "PrecioFinal": 2883,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "618",
+      "CodLista": "001",
+      "PrecioFinal": 2883,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "619",
+      "CodLista": "001",
+      "PrecioFinal": 2783,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "620",
+      "CodLista": "001",
+      "PrecioFinal": 926,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "621",
+      "CodLista": "001",
+      "PrecioFinal": 926,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "622",
+      "CodLista": "001",
+      "PrecioFinal": 926,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "623",
+      "CodLista": "001",
+      "PrecioFinal": 926,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "624",
+      "CodLista": "001",
+      "PrecioFinal": 926,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "625",
+      "CodLista": "001",
+      "PrecioFinal": 314.33,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "626",
+      "CodLista": "001",
+      "PrecioFinal": 2883,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "627",
+      "CodLista": "001",
+      "PrecioFinal": 2883,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "628",
+      "CodLista": "001",
+      "PrecioFinal": 2883,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "700",
+      "CodLista": "001",
+      "PrecioFinal": 318.81,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "701",
+      "CodLista": "001",
+      "PrecioFinal": 382.02,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "703",
+      "CodLista": "001",
+      "PrecioFinal": 249.48,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "704",
+      "CodLista": "001",
+      "PrecioFinal": 1402.13,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "711",
+      "CodLista": "001",
+      "PrecioFinal": 1356,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "712",
+      "CodLista": "001",
+      "PrecioFinal": 1356,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "713",
+      "CodLista": "001",
+      "PrecioFinal": 1596,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "714",
+      "CodLista": "001",
+      "PrecioFinal": 1596,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "719",
+      "CodLista": "001",
+      "PrecioFinal": 452.04,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "720",
+      "CodLista": "001",
+      "PrecioFinal": 516.46,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "722",
+      "CodLista": "001",
+      "PrecioFinal": 222.37,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "723",
+      "CodLista": "001",
+      "PrecioFinal": 559.71,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "724",
+      "CodLista": "001",
+      "PrecioFinal": 315.04,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "728",
+      "CodLista": "001",
+      "PrecioFinal": 312.88,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "729",
+      "CodLista": "001",
+      "PrecioFinal": 312.88,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "730",
+      "CodLista": "001",
+      "PrecioFinal": 312.88,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "731",
+      "CodLista": "001",
+      "PrecioFinal": 312.88,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "732",
+      "CodLista": "001",
+      "PrecioFinal": 750,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "733",
+      "CodLista": "001",
+      "PrecioFinal": 750,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "734",
+      "CodLista": "001",
+      "PrecioFinal": 564.71,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "735",
+      "CodLista": "001",
+      "PrecioFinal": 825,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "739",
+      "CodLista": "001",
+      "PrecioFinal": 383.78,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "740",
+      "CodLista": "001",
+      "PrecioFinal": 1472.19,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "741",
+      "CodLista": "001",
+      "PrecioFinal": 496,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "742",
+      "CodLista": "001",
+      "PrecioFinal": 559,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "743",
+      "CodLista": "001",
+      "PrecioFinal": 496,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "749",
+      "CodLista": "001",
+      "PrecioFinal": 920,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "752",
+      "CodLista": "001",
+      "PrecioFinal": 926,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "753",
+      "CodLista": "001",
+      "PrecioFinal": 926,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "754",
+      "CodLista": "001",
+      "PrecioFinal": 750,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "755",
+      "CodLista": "001",
+      "PrecioFinal": 750,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "756",
+      "CodLista": "001",
+      "PrecioFinal": 2883,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "757",
+      "CodLista": "001",
+      "PrecioFinal": 950,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "758",
+      "CodLista": "001",
+      "PrecioFinal": 333.2,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "759",
+      "CodLista": "001",
+      "PrecioFinal": 762.51,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "762",
+      "CodLista": "001",
+      "PrecioFinal": 496,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "763",
+      "CodLista": "001",
+      "PrecioFinal": 758.75,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "764",
+      "CodLista": "001",
+      "PrecioFinal": 368.96,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "765",
+      "CodLista": "001",
+      "PrecioFinal": 368.96,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "766",
+      "CodLista": "001",
+      "PrecioFinal": 368.96,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "767",
+      "CodLista": "001",
+      "PrecioFinal": 368.96,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "768",
+      "CodLista": "001",
+      "PrecioFinal": 368.96,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "769",
+      "CodLista": "001",
+      "PrecioFinal": 533.06,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "770",
+      "CodLista": "001",
+      "PrecioFinal": 452.38,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "774",
+      "CodLista": "001",
+      "PrecioFinal": 1562.5,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "775",
+      "CodLista": "001",
+      "PrecioFinal": 1662.5,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "776",
+      "CodLista": "001",
+      "PrecioFinal": 368.96,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "778",
+      "CodLista": "001",
+      "PrecioFinal": 368.96,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "781",
+      "CodLista": "001",
+      "PrecioFinal": 568.1,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0305",
+      "CodLista": "001",
+      "PrecioFinal": 943,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0306",
+      "CodLista": "001",
+      "PrecioFinal": 411.4,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0307",
+      "CodLista": "001",
+      "PrecioFinal": 369.6,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0308",
+      "CodLista": "001",
+      "PrecioFinal": 324,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0309",
+      "CodLista": "001",
+      "PrecioFinal": 660,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0310",
+      "CodLista": "001",
+      "PrecioFinal": 260.2,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0311",
+      "CodLista": "001",
+      "PrecioFinal": 694.99,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0312",
+      "CodLista": "001",
+      "PrecioFinal": 627.9,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0313",
+      "CodLista": "001",
+      "PrecioFinal": 336.66,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0314",
+      "CodLista": "001",
+      "PrecioFinal": 160.8,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0315",
+      "CodLista": "001",
+      "PrecioFinal": 431.4,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0316",
+      "CodLista": "001",
+      "PrecioFinal": 720,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0317",
+      "CodLista": "001",
+      "PrecioFinal": 542.23,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0318",
+      "CodLista": "001",
+      "PrecioFinal": 200,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0319",
+      "CodLista": "001",
+      "PrecioFinal": 638.11,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0340",
+      "CodLista": "001",
+      "PrecioFinal": 638.11,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0341",
+      "CodLista": "001",
+      "PrecioFinal": 638.11,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0342",
+      "CodLista": "001",
+      "PrecioFinal": 638.11,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0343",
+      "CodLista": "001",
+      "PrecioFinal": 902.88,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0345",
+      "CodLista": "001",
+      "PrecioFinal": 357,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0346",
+      "CodLista": "001",
+      "PrecioFinal": 1259.25,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0347",
+      "CodLista": "001",
+      "PrecioFinal": 806.4,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "03004",
+      "CodLista": "001",
+      "PrecioFinal": 191.9,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "13",
+      "CodLista": "001",
+      "PrecioFinal": 200,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "80",
+      "CodLista": "001",
+      "PrecioFinal": 1,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "83",
+      "CodLista": "001",
+      "PrecioFinal": 500,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "84",
+      "CodLista": "001",
+      "PrecioFinal": 420,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "85",
+      "CodLista": "001",
+      "PrecioFinal": 198.33,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "88",
+      "CodLista": "001",
+      "PrecioFinal": 222.34,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "89",
+      "CodLista": "001",
+      "PrecioFinal": 187.5,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "001",
+      "CodLista": "001",
+      "PrecioFinal": 30.42,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "401",
+      "CodLista": "001",
+      "PrecioFinal": 136.91,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "402",
+      "CodLista": "001",
+      "PrecioFinal": 136.91,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "403",
+      "CodLista": "001",
+      "PrecioFinal": 136.91,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "404",
+      "CodLista": "001",
+      "PrecioFinal": 136.91,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "405",
+      "CodLista": "001",
+      "PrecioFinal": 177.54,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "406",
+      "CodLista": "001",
+      "PrecioFinal": 177.54,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "407",
+      "CodLista": "001",
+      "PrecioFinal": 136.91,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "409",
+      "CodLista": "001",
+      "PrecioFinal": 177.54,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "410",
+      "CodLista": "001",
+      "PrecioFinal": 177.54,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "412",
+      "CodLista": "001",
+      "PrecioFinal": 606.61,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "418",
+      "CodLista": "001",
+      "PrecioFinal": 136.91,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "419",
+      "CodLista": "001",
+      "PrecioFinal": 177.54,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "422",
+      "CodLista": "001",
+      "PrecioFinal": 185.61,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "425",
+      "CodLista": "001",
+      "PrecioFinal": 185.61,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "426",
+      "CodLista": "001",
+      "PrecioFinal": 185.61,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "427",
+      "CodLista": "001",
+      "PrecioFinal": 101.89,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "428",
+      "CodLista": "001",
+      "PrecioFinal": 101.89,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "429",
+      "CodLista": "001",
+      "PrecioFinal": 185.61,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "430",
+      "CodLista": "001",
+      "PrecioFinal": 100.13,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "431",
+      "CodLista": "001",
+      "PrecioFinal": 122.33,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "432",
+      "CodLista": "001",
+      "PrecioFinal": 110.33,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "433",
+      "CodLista": "001",
+      "PrecioFinal": 122.33,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "434",
+      "CodLista": "001",
+      "PrecioFinal": 110.91,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "435",
+      "CodLista": "001",
+      "PrecioFinal": 147.33,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "436",
+      "CodLista": "001",
+      "PrecioFinal": 119.79,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "437",
+      "CodLista": "001",
+      "PrecioFinal": 108.1,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "438",
+      "CodLista": "001",
+      "PrecioFinal": 90.67,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "439",
+      "CodLista": "001",
+      "PrecioFinal": 151.04,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "440",
+      "CodLista": "001",
+      "PrecioFinal": 439,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "441",
+      "CodLista": "001",
+      "PrecioFinal": 275,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "442",
+      "CodLista": "001",
+      "PrecioFinal": 199.5,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "444",
+      "CodLista": "001",
+      "PrecioFinal": 847.2,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "446",
+      "CodLista": "001",
+      "PrecioFinal": 108.1,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "447",
+      "CodLista": "001",
+      "PrecioFinal": 94.47,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "448",
+      "CodLista": "001",
+      "PrecioFinal": 70.53,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "449",
+      "CodLista": "001",
+      "PrecioFinal": 70.53,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "450",
+      "CodLista": "001",
+      "PrecioFinal": 92.5,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "451",
+      "CodLista": "001",
+      "PrecioFinal": 92.57,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "452",
+      "CodLista": "001",
+      "PrecioFinal": 96.6,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "453",
+      "CodLista": "001",
+      "PrecioFinal": 102.35,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "454",
+      "CodLista": "001",
+      "PrecioFinal": 222.18,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "455",
+      "CodLista": "001",
+      "PrecioFinal": 102.6,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "456",
+      "CodLista": "001",
+      "PrecioFinal": 185.61,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "457",
+      "CodLista": "001",
+      "PrecioFinal": 112.5,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "458",
+      "CodLista": "001",
+      "PrecioFinal": 185.61,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "46",
+      "CodLista": "001",
+      "PrecioFinal": 235.33,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "55",
+      "CodLista": "001",
+      "PrecioFinal": 291.85,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "556",
+      "CodLista": "001",
+      "PrecioFinal": 1080.05,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "2200",
+      "CodLista": "001",
+      "PrecioFinal": 267.35,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "2201",
+      "CodLista": "001",
+      "PrecioFinal": 172.18,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "2202",
+      "CodLista": "001",
+      "PrecioFinal": 164.65,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "2203",
+      "CodLista": "001",
+      "PrecioFinal": 172.18,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "2204",
+      "CodLista": "001",
+      "PrecioFinal": 217.26,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "2205",
+      "CodLista": "001",
+      "PrecioFinal": 217.26,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "2206",
+      "CodLista": "001",
+      "PrecioFinal": 172.18,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "900",
+      "CodLista": "001",
+      "PrecioFinal": 63.68,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "901",
+      "CodLista": "001",
+      "PrecioFinal": 147.5,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "705",
+      "CodLista": "001",
+      "PrecioFinal": 580,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "706",
+      "CodLista": "001",
+      "PrecioFinal": 640,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "707",
+      "CodLista": "001",
+      "PrecioFinal": 620,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "708",
+      "CodLista": "001",
+      "PrecioFinal": 1005.33,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "709",
+      "CodLista": "001",
+      "PrecioFinal": 1691.99,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "710",
+      "CodLista": "001",
+      "PrecioFinal": 3812.5,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "715",
+      "CodLista": "001",
+      "PrecioFinal": 385,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "716",
+      "CodLista": "001",
+      "PrecioFinal": 3264,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "717",
+      "CodLista": "001",
+      "PrecioFinal": 1819.2,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "718",
+      "CodLista": "001",
+      "PrecioFinal": 687.62,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "725",
+      "CodLista": "001",
+      "PrecioFinal": 591.23,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "726",
+      "CodLista": "001",
+      "PrecioFinal": 1759.4,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "736",
+      "CodLista": "001",
+      "PrecioFinal": 1573.86,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "737",
+      "CodLista": "001",
+      "PrecioFinal": 3437.5,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "738",
+      "CodLista": "001",
+      "PrecioFinal": 1204,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "750",
+      "CodLista": "001",
+      "PrecioFinal": 1790,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "751",
+      "CodLista": "001",
+      "PrecioFinal": 825.16,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "760",
+      "CodLista": "001",
+      "PrecioFinal": 5600,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "761",
+      "CodLista": "001",
+      "PrecioFinal": 3900,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "771",
+      "CodLista": "001",
+      "PrecioFinal": 1136.28,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "772",
+      "CodLista": "001",
+      "PrecioFinal": 585,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "773",
+      "CodLista": "001",
+      "PrecioFinal": 502.02,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "779",
+      "CodLista": "001",
+      "PrecioFinal": 4250,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "780",
+      "CodLista": "001",
+      "PrecioFinal": 590.91,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "782",
+      "CodLista": "001",
+      "PrecioFinal": 590.91,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0506",
+      "CodLista": "001",
+      "PrecioFinal": 403.41,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0507",
+      "CodLista": "001",
+      "PrecioFinal": 309.8,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0508",
+      "CodLista": "001",
+      "PrecioFinal": 625,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0509",
+      "CodLista": "001",
+      "PrecioFinal": 1250,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0510",
+      "CodLista": "001",
+      "PrecioFinal": 1704.55,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0511",
+      "CodLista": "001",
+      "PrecioFinal": 410,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0512",
+      "CodLista": "001",
+      "PrecioFinal": 1022.73,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0513",
+      "CodLista": "001",
+      "PrecioFinal": 241.25,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0514",
+      "CodLista": "001",
+      "PrecioFinal": 241.25,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0515",
+      "CodLista": "001",
+      "PrecioFinal": 241.25,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0516",
+      "CodLista": "001",
+      "PrecioFinal": 241.25,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0517",
+      "CodLista": "001",
+      "PrecioFinal": 460.94,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0518",
+      "CodLista": "001",
+      "PrecioFinal": 253.75,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0519",
+      "CodLista": "001",
+      "PrecioFinal": 437.5,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0520",
+      "CodLista": "001",
+      "PrecioFinal": 437.5,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0521",
+      "CodLista": "001",
+      "PrecioFinal": 423.5,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0522",
+      "CodLista": "001",
+      "PrecioFinal": 423.5,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0523",
+      "CodLista": "001",
+      "PrecioFinal": 423.5,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0524",
+      "CodLista": "001",
+      "PrecioFinal": 213,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0525",
+      "CodLista": "001",
+      "PrecioFinal": 213,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0526",
+      "CodLista": "001",
+      "PrecioFinal": 190,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0527",
+      "CodLista": "001",
+      "PrecioFinal": 190,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0528",
+      "CodLista": "001",
+      "PrecioFinal": 190,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0529",
+      "CodLista": "001",
+      "PrecioFinal": 190,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0530",
+      "CodLista": "001",
+      "PrecioFinal": 243.75,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0531",
+      "CodLista": "001",
+      "PrecioFinal": 243.75,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0532",
+      "CodLista": "001",
+      "PrecioFinal": 250,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0533",
+      "CodLista": "001",
+      "PrecioFinal": 250,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0534",
+      "CodLista": "001",
+      "PrecioFinal": 1581.25,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0535",
+      "CodLista": "001",
+      "PrecioFinal": 1746.94,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0536",
+      "CodLista": "001",
+      "PrecioFinal": 1746.94,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0537",
+      "CodLista": "001",
+      "PrecioFinal": 1746.94,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0538",
+      "CodLista": "001",
+      "PrecioFinal": 996.88,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0539",
+      "CodLista": "001",
+      "PrecioFinal": 996.88,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0540",
+      "CodLista": "001",
+      "PrecioFinal": 996.88,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0541",
+      "CodLista": "001",
+      "PrecioFinal": 996.88,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0542",
+      "CodLista": "001",
+      "PrecioFinal": 1286.31,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0543",
+      "CodLista": "001",
+      "PrecioFinal": 1286.31,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0544",
+      "CodLista": "001",
+      "PrecioFinal": 1286.31,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0545",
+      "CodLista": "001",
+      "PrecioFinal": 1444.44,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0546",
+      "CodLista": "001",
+      "PrecioFinal": 1444.44,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0547",
+      "CodLista": "001",
+      "PrecioFinal": 715,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0548",
+      "CodLista": "001",
+      "PrecioFinal": 543.13,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0549",
+      "CodLista": "001",
+      "PrecioFinal": 462.69,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0550",
+      "CodLista": "001",
+      "PrecioFinal": 462.69,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0551",
+      "CodLista": "001",
+      "PrecioFinal": 462.69,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0552",
+      "CodLista": "001",
+      "PrecioFinal": 1286.31,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0553",
+      "CodLista": "001",
+      "PrecioFinal": 1286.31,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0554",
+      "CodLista": "001",
+      "PrecioFinal": 406.8,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0555",
+      "CodLista": "001",
+      "PrecioFinal": 1176,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0556",
+      "CodLista": "001",
+      "PrecioFinal": 603.6,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0557",
+      "CodLista": "001",
+      "PrecioFinal": 771.6,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0558",
+      "CodLista": "001",
+      "PrecioFinal": 643.54,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0559",
+      "CodLista": "001",
+      "PrecioFinal": 643.54,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0560",
+      "CodLista": "001",
+      "PrecioFinal": 715,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0561",
+      "CodLista": "001",
+      "PrecioFinal": 715,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0562",
+      "CodLista": "001",
+      "PrecioFinal": 715,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0563",
+      "CodLista": "001",
+      "PrecioFinal": 643.54,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0564",
+      "CodLista": "001",
+      "PrecioFinal": 218.51,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0565",
+      "CodLista": "001",
+      "PrecioFinal": 218.51,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0566",
+      "CodLista": "001",
+      "PrecioFinal": 218.51,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0567",
+      "CodLista": "001",
+      "PrecioFinal": 218.51,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0568",
+      "CodLista": "001",
+      "PrecioFinal": 290.25,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0569",
+      "CodLista": "001",
+      "PrecioFinal": 1375.01,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0570",
+      "CodLista": "001",
+      "PrecioFinal": 4125,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0571",
+      "CodLista": "001",
+      "PrecioFinal": 3097.19,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0572",
+      "CodLista": "001",
+      "PrecioFinal": 5738.7,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0573",
+      "CodLista": "001",
+      "PrecioFinal": 5968.38,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0574",
+      "CodLista": "001",
+      "PrecioFinal": 5445.66,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0575",
+      "CodLista": "001",
+      "PrecioFinal": 610.5,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0576",
+      "CodLista": "001",
+      "PrecioFinal": 316,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0577",
+      "CodLista": "001",
+      "PrecioFinal": 241.25,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0578",
+      "CodLista": "001",
+      "PrecioFinal": 241.25,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0579",
+      "CodLista": "001",
+      "PrecioFinal": 388.8,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0580",
+      "CodLista": "001",
+      "PrecioFinal": 291.6,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0581",
+      "CodLista": "001",
+      "PrecioFinal": 255.68,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0582",
+      "CodLista": "001",
+      "PrecioFinal": 715,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0584",
+      "CodLista": "001",
+      "PrecioFinal": 643.54,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0585",
+      "CodLista": "001",
+      "PrecioFinal": 2390.44,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0586",
+      "CodLista": "001",
+      "PrecioFinal": 1500,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0587",
+      "CodLista": "001",
+      "PrecioFinal": 136.25,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0588",
+      "CodLista": "001",
+      "PrecioFinal": 423.5,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0589",
+      "CodLista": "001",
+      "PrecioFinal": 423.5,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0590",
+      "CodLista": "001",
+      "PrecioFinal": 1022.73,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0591",
+      "CodLista": "001",
+      "PrecioFinal": 996.88,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0592",
+      "CodLista": "001",
+      "PrecioFinal": 656.7,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0593",
+      "CodLista": "001",
+      "PrecioFinal": 3038.06,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0594",
+      "CodLista": "001",
+      "PrecioFinal": 611.88,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0595",
+      "CodLista": "001",
+      "PrecioFinal": 321.25,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0596",
+      "CodLista": "001",
+      "PrecioFinal": 321.25,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0597",
+      "CodLista": "001",
+      "PrecioFinal": 406.25,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0598",
+      "CodLista": "001",
+      "PrecioFinal": 343.75,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0599",
+      "CodLista": "001",
+      "PrecioFinal": 412.5,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0600",
+      "CodLista": "001",
+      "PrecioFinal": 2975,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0601",
+      "CodLista": "001",
+      "PrecioFinal": 2975,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0602",
+      "CodLista": "001",
+      "PrecioFinal": 2975,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0900",
+      "CodLista": "001",
+      "PrecioFinal": 1550.03,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0901",
+      "CodLista": "001",
+      "PrecioFinal": 3120,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0902",
+      "CodLista": "001",
+      "PrecioFinal": 3240,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0903",
+      "CodLista": "001",
+      "PrecioFinal": 3240,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0904",
+      "CodLista": "001",
+      "PrecioFinal": 3240,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0905",
+      "CodLista": "001",
+      "PrecioFinal": 2250.08,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0906",
+      "CodLista": "001",
+      "PrecioFinal": 5256,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0907",
+      "CodLista": "001",
+      "PrecioFinal": 397.76,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0908",
+      "CodLista": "001",
+      "PrecioFinal": 397.76,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0910",
+      "CodLista": "001",
+      "PrecioFinal": 1504.13,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0911",
+      "CodLista": "001",
+      "PrecioFinal": 5906,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0912",
+      "CodLista": "001",
+      "PrecioFinal": 2875,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0913",
+      "CodLista": "001",
+      "PrecioFinal": 2432,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0914",
+      "CodLista": "001",
+      "PrecioFinal": 1430,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0915",
+      "CodLista": "001",
+      "PrecioFinal": 6240,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0916",
+      "CodLista": "001",
+      "PrecioFinal": 4750,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0917",
+      "CodLista": "001",
+      "PrecioFinal": 8640,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0918",
+      "CodLista": "001",
+      "PrecioFinal": 643.75,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0919",
+      "CodLista": "001",
+      "PrecioFinal": 2875,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0920",
+      "CodLista": "001",
+      "PrecioFinal": 21875,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0921",
+      "CodLista": "001",
+      "PrecioFinal": 7920,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0922",
+      "CodLista": "001",
+      "PrecioFinal": 1187.5,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0923",
+      "CodLista": "001",
+      "PrecioFinal": 3750,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0924",
+      "CodLista": "001",
+      "PrecioFinal": 4632,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0925",
+      "CodLista": "001",
+      "PrecioFinal": 3175,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0926",
+      "CodLista": "001",
+      "PrecioFinal": 1812.5,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0927",
+      "CodLista": "001",
+      "PrecioFinal": 8640,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0928",
+      "CodLista": "001",
+      "PrecioFinal": 2250,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0929",
+      "CodLista": "001",
+      "PrecioFinal": 4312.5,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0930",
+      "CodLista": "001",
+      "PrecioFinal": 437.56,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0931",
+      "CodLista": "001",
+      "PrecioFinal": 437.56,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0932",
+      "CodLista": "001",
+      "PrecioFinal": 1725,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "0933",
+      "CodLista": "001",
+      "PrecioFinal": 15375,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "8801",
+      "CodLista": "001",
+      "PrecioFinal": 511.95,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "8802",
+      "CodLista": "001",
+      "PrecioFinal": 396.78,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "8803",
+      "CodLista": "001",
+      "PrecioFinal": 499.46,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "8804",
+      "CodLista": "001",
+      "PrecioFinal": 2312.5,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "8805",
+      "CodLista": "001",
+      "PrecioFinal": 2980,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "8806",
+      "CodLista": "001",
+      "PrecioFinal": 3525,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "8807",
+      "CodLista": "001",
+      "PrecioFinal": 1706.25,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "8808",
+      "CodLista": "001",
+      "PrecioFinal": 1979.99,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "8809",
+      "CodLista": "001",
+      "PrecioFinal": 1156,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "8810",
+      "CodLista": "001",
+      "PrecioFinal": 1156,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "8811",
+      "CodLista": "001",
+      "PrecioFinal": 1156,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "8812",
+      "CodLista": "001",
+      "PrecioFinal": 399.95,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "8813",
+      "CodLista": "001",
+      "PrecioFinal": 711.25,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "8814",
+      "CodLista": "001",
+      "PrecioFinal": 2232,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "8815",
+      "CodLista": "001",
+      "PrecioFinal": 380.33,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "8816",
+      "CodLista": "001",
+      "PrecioFinal": 380.33,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "8817",
+      "CodLista": "001",
+      "PrecioFinal": 380.33,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "8818",
+      "CodLista": "001",
+      "PrecioFinal": 399.95,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "810",
+      "CodLista": "001",
+      "PrecioFinal": 48.37,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "812",
+      "CodLista": "001",
+      "PrecioFinal": 90.83,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "820",
+      "CodLista": "001",
+      "PrecioFinal": 152.5,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "821",
+      "CodLista": "001",
+      "PrecioFinal": 152.5,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "822",
+      "CodLista": "001",
+      "PrecioFinal": 58.75,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "824",
+      "CodLista": "001",
+      "PrecioFinal": 113.75,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "825",
+      "CodLista": "001",
+      "PrecioFinal": 49.69,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "826",
+      "CodLista": "001",
+      "PrecioFinal": 49.69,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "827",
+      "CodLista": "001",
+      "PrecioFinal": 49.69,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "828",
+      "CodLista": "001",
+      "PrecioFinal": 49.69,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "3315",
+      "CodLista": "001",
+      "PrecioFinal": 120.17,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "3316",
+      "CodLista": "001",
+      "PrecioFinal": 120.17,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "3317",
+      "CodLista": "001",
+      "PrecioFinal": 120.17,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "315",
+      "CodLista": "001",
+      "PrecioFinal": 2871.25,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    },
+    {
+      "CodArticulo": "317",
+      "CodLista": "001",
+      "PrecioFinal": 1011.25,
+      "PrecioOferta": 0,
+      "PrecioPiso": 0
+    }
+  ]
+}
